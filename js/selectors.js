@@ -8,3 +8,6 @@ function paragraphSelector(){
 function ninjaBabySelector(){
   return $("#baby-ninja");
 }
+function divSelector(){
+  return $(".class")
+}
